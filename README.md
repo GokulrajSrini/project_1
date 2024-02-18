@@ -1,4 +1,4 @@
-## Version 1.0 YouTube Data Harvesting and Warehousing using postgreSQL, MongoDB and Streamlit
+## YouTube Data Harvesting and Warehousing using postgreSQL, MongoDB and Streamlit
 * API key connection
 * Getting Channel,Video,Playlist,Comment information
 * Upload Collected information into Mongodb
